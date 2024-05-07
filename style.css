@@ -24,7 +24,7 @@ main{
     display: grid;
     grid-template-columns: auto auto auto auto;
     width: 100%;
-    gap: 20px;
+    gap: 10px;
 }
 .content div{
     display: flex;
