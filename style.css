@@ -15,7 +15,7 @@ main{
     border: 1px solid rgb(216, 213, 213);
     border-radius: 3px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
-    width: 85%;
+    width: 95%;
     height: 80vh;
     padding: 30px 20px;
 }
