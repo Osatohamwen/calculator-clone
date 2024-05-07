@@ -16,7 +16,7 @@ main{
     border-radius: 3px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
     width: 95%;
-    height: 80vh;
+    height: 90vh;
     padding: 30px 20px;
 }
 .content{
@@ -74,7 +74,7 @@ button{
     justify-content: center;
     grid-column: 4;
     grid-row: 3 / span 4;
-    background-color: #535dee !important;
+    background-color: #5d66ee !important;
 }
 .item-9:hover{
     background-color: #4a54d6 !important;
@@ -92,15 +92,18 @@ button{
 @media (min-width: 768px){
     .container{
         width: 60%;
+        height: 80vh;
     }
 }
 @media (min-width: 1024px){
     .container{
         width: 40%;
+        height: 80vh;
     }
 }
 @media (min-width: 1280px){
     .container{
         width: 35%;
+        height: 80vh;
     }
 }
