@@ -75,7 +75,7 @@ button{
     justify-content: center;
     grid-column: 4;
     grid-row: 3 / span 4;
-    background-color: #535dee !important;
+    background-color: #3642e9 !important;
 }
 .item-9:hover{
     background-color: #4a54d6 !important;
